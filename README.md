@@ -1,4 +1,6 @@
 # Terceiro projeto do desafio em codar em js
+O desafio de criar um gerador de QRcode.
+
 Acompanhando um desafio de 100 dias condando em js do canal de youtube <a href="youtube.com/channel/UCJqXkOwrq7uBn-sn_Fvce9Q?sub_confirmation=1">AsmrProg</a>
 
 ## Captura da tela
